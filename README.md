@@ -1,6 +1,4 @@
-## Employee Database
-
-### ✅ `README.md`
+### Employee Database
 
 ````markdown
 # 🗂️ Employee Database (JDBC Project)
